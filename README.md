@@ -125,6 +125,7 @@
     src="https://github-readme-stats.vercel.app/api?username=lorenzboss&show_icons=true&theme=dark"
     alt="GitHub Stats"
 />
+<br><br><br>
 
 # 📜 Commit History
 
