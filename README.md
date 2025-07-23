@@ -37,30 +37,30 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=lorenzboss&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+    srcset="https://github-readme-stats.vercel.app/api?username=lorenzboss&show_icons=true&include_all_commits=true&rank_icon=github&theme=dark"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=lorenzboss&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+    srcset="https://github-readme-stats.vercel.app/api?username=lorenzboss&show_icons=true&include_all_commits=true&rank_icon=github"
   />
   <img
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=lorenzboss&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=lorenzboss&show_icons=true&include_all_commits=true&rank_icon=github"
   />
 </picture>
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzboss&theme=dark&hide_border=true&layout=compact&langs_count=10"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzboss&layout=compact&langs_count=10&theme=dark"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzboss&theme=default&hide_border=true&layout=compact&langs_count=10"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzboss&layout=compact&langs_count=10"
   />
   <img
     alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzboss&hide_border=true&layout=compact&langs_count=10"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzboss&layout=compact&langs_count=10"
   />
 </picture>
 
