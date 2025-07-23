@@ -34,15 +34,36 @@
 
 # 📈 GitHub Stats
 
-<img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzboss&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-    alt="Top Languages"
-/>
-
-<img
-    src="https://github-readme-stats.vercel.app/api?username=lorenzboss&show_icons=true&theme=dark"
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=lorenzboss&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=lorenzboss&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+  />
+  <img
     alt="GitHub Stats"
-/>
+    src="https://github-readme-stats.vercel.app/api?username=lorenzboss&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+  />
+</picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzboss&theme=dark&hide_border=true&layout=compact&langs_count=10"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzboss&theme=default&hide_border=true&layout=compact&langs_count=10"
+  />
+  <img
+    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzboss&hide_border=true&layout=compact&langs_count=10"
+  />
+</picture>
+
 <br><br><br>
 
 # 📜 Commit History
