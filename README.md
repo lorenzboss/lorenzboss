@@ -4,7 +4,7 @@
 - ✍️ I’m interested in web development
 - 🌱 I’m currently learning React & Next.js
 - 📫 How to reach me: [lorenzboss7@gmail.com](mailto:lorenzboss7@gmail.com)
-- ⚡ Fun fact: At first, I thought that all programming was done using TigerJython
+- 👨‍💻 Check out my portfolio: [www.lorenzboss.com](https://www.lorenzboss.com)
 
 # 📚 Skills
 
