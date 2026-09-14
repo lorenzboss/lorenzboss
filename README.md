@@ -37,15 +37,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=lorenzboss&show_icons=true&include_all_commits=true&rank_icon=github&theme=dark"
+    srcset="https://github-stats-extended.vercel.app/api?username=lorenzboss&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark_github"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=lorenzboss&show_icons=true&include_all_commits=true&rank_icon=github"
+    srcset="https://github-stats-extended.vercel.app/api?username=lorenzboss&rank_icon=github&show_icons=true&include_all_commits=true&theme=light_github"
   />
   <img
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=lorenzboss&show_icons=true&include_all_commits=true&rank_icon=github"
+    src="https://github-stats-extended.vercel.app/api?username=lorenzboss&rank_icon=github&show_icons=true&include_all_commits=true&theme=light_github"
   />
 </picture>
 
@@ -54,15 +54,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzboss&layout=compact&langs_count=10&theme=dark"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs?username=lorenzboss&layout=compact&langs_count=10&theme=dark_github"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzboss&layout=compact&langs_count=10"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs?username=lorenzboss&layout=compact&langs_count=10&theme=light_github"
   />
   <img
     alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzboss&layout=compact&langs_count=10"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=lorenzboss&layout=compact&langs_count=10&theme=light_github"
   />
 </picture>
 
